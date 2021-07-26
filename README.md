@@ -6,7 +6,6 @@
 https://www.linkedin.com/in/marius-gabriel-petre-54b211218/
 mariuspgabriel@yahoo.com 
 mariustracus1@gmail.com
-https://www.facebook.com/mariuspgabriel/
 
 <!---
 Mariuspgab/Mariuspgab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
