@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mariuspgab
-- 👀 I’m interested in Javascript
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Colt Steele`s Web Developer Bootcamp 2021
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me:
