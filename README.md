@@ -4,13 +4,13 @@
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me:
 
-Linkedin
+Linkedin:
 https://www.linkedin.com/in/marius-gabriel-petre-54b211218/
 
-Yahoo Mail
+Yahoo Mail:
 mariuspgabriel@yahoo.com 
 
-Google Mail
+Google Mail:
 mariustracus1@gmail.com
 
 <!---
