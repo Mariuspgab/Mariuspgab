@@ -3,8 +3,14 @@
 - 🌱 I graduated The Complete Oracle Sql Bootcamp 2023 and Colt Steele`s Web Developer Bootcamp 2021
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me:
+
+Linkedin
 https://www.linkedin.com/in/marius-gabriel-petre-54b211218/
+
+Yahoo Mail
 mariuspgabriel@yahoo.com 
+
+Google Mail
 mariustracus1@gmail.com
 
 <!---
